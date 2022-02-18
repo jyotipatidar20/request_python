@@ -1,0 +1,95 @@
+{
+    "course": {
+        "id": "294",
+        "name": "Alumni Stories",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Alumni stories.",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "7688",
+                "parent_exercise_id": null,
+                "course_id": "294",
+                "name": "Alumni Stories",
+                "slug": "alumni-story__Alumni-Stories_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/alumni-story/Alumni-Stories.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Rani (our alumni from Bihar's story):\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "XJ6hcfkSDkw"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Kajal (Our Alumni Story from Delhi):\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "o3mXHf7LWiw"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": " \nMeet India\u2019s Next Generation of `Code`rs in collaboration with Amazon:\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "5_G_Q4rSiUU"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "NavGurukul- Interview with Students\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "UMvmVW5QUo4"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Student & Alumni Experience in NavGurukul\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "27iEQ3UxboQ"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Alumni-Stories_key6\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "mK8VpkiuLgg"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Alumni-Stories_key7\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "vuSwndj5cbs"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Alumni-Stories_key8\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "yv8qMgoHOWw"
+                    }
+                ]
+            }
+        ]
+    }
+}

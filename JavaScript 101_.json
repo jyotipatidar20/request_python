@@ -1,0 +1,791 @@
+{
+    "course": {
+        "id": "251",
+        "name": "JavaScript 101",
+        "logo": "https",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "We will learn basics of programming using JavaScript in this course.",
+        "type": "js",
+        "course_type": "json",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "7270",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "introduction",
+                "slug": "js101_json__introduction_json",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "JavaScript se kya kar sate hain?"
+                    },
+                    {
+                        "component": "text",
+                        "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">insert video/link</span>",
+                        "decoration": {
+                            "type": "number",
+                            "value": 1
+                        }
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Aakhir JavaScript kya hai?"
+                    },
+                    {
+                        "component": "text",
+                        "value": "<a href=\"https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/\">Things you can build with JavaScript?</a>",
+                        "decoration": {
+                            "type": "number",
+                            "value": 1
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "<a href=\"https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio\">What are some of the cool projects that I can build using Pure JavaScript?</a>",
+                        "decoration": {
+                            "type": "number",
+                            "value": 2
+                        }
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Kuch aur companies jo JS use karti hain"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Aaj kal duniya mein bahot log aur companies JavaScript use kar rahe hain. Duniya ki saari achi companies JavaScript kisi na kisi tareeke se use kar sakte hain. JavaScript ki sabse khaas baat hai ki woh bahot saare platforms pe run hoti hai. Jaise:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "JavaScript browsers mein chalti hai.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 1
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Mobile apps banane ke liye bhi use ho sakti hai.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 2
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Server pe backend banane ke liye bhi use ho sakti hai.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 3
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Digital smart watches pe JS waali application chalti hai.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 4
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Drones mein bhi JS use hoti hai. Thoda online padho drones kya hote hain :wink: ",
+                        "decoration": {
+                            "type": "number",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Waise toh bahot saari companies JS use kar rahi hain, lekin yeh kuch naam hain:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Flipkart",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Myntra",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "PayTM aur Freecharge",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "IRCTC (Indian Railways ki website)",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Instagram ki mobile app bhi JS mein bani hai ",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Google",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Facebook ka bahot saara backend aur Mobile apps JS mein bane hain.",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7256",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "project-1-intro",
+                "slug": "js101_json__project-1-intro_json",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/project-1-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Give introduction to a basic calculator project that we are going to use as a base project for the following topics",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Students will be exposed to a working prototype of this project to get a feel of what exactly they will be building.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7269",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "setup",
+                "slug": "js101_json__setup_json",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/setup.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Tell them to create a JS file and add a <script> tag in the html page.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Here we should tell them to add some basic thing like console.log(\"\"Rishabh Verma\"\"). ",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Teach them how to open Chrome Dev Tools. At the end they should see their console output in the chrome dev tools easily.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "youtube",
+                        "value": "z-DeJIWWcLw"
+                    },
+                    {
+                        "component": "text",
+                        "value": "This video explains the concept of including JS into the page really really well."
+                    }
+                ]
+            },
+            {
+                "id": "7268",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "variables",
+                "slug": "js101_json__variables_json",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/variables.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain the concept of how variable is a store of value. It's like an empty box which can take in any content.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Currently instead of doing the explaining work, we can just refer them to the variable section in the Python course.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Print things like var a = 12; console.log(a);",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Show how to change value of a variable.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//<span style=\"\">Variables</span><br>var a = 3;<br>var b = 4;<br>console.log(a + b)"
+                    }
+                ]
+            },
+            {
+                "id": "7257",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "arithmetic-intro",
+                "slug": "js101_json__arithmetic-intro_json",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/arithmetic-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain them how to do addition/subtraction/multiplication or power of two numbers.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Also tell them about division by zero error",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//<span style=\"\">Variables</span><br>var a = 3;<br>var b = 4;<br>console.log(a + b)"
+                    }
+                ]
+            },
+            {
+                "id": "7265",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "data-types",
+                "slug": "js101_json__data-types_json",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/data-types.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Show an example how addition of string and addition of numbers work.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Tell them how the two addition are fundamentally really different.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "From here build the concept of data types and how variables can store different types of data to do different things.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Tell them there are 2 types of data types - strings &amp; numbers.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7266",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "prompt-and-type-conversion",
+                "slug": "js101_json__prompt-and-type-conversion_json",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/prompt-and-type-conversion.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Use prompt to take in two numbers and logging them in the console.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Then use prompt to add two numbers. Here the student will realise that they cannot be added but are concatenated because they are strings.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Talk about data types and then come to data type conversion.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Come up with the complete example of taking input and then showing the output as the addition of numbers which were input.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Add link to alert() &amp; confirm() functions but do not explain about them.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7260",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "if-else",
+                "slug": "js101_json__if-else_json",
+                "sequence_num": 700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/if-else.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain them the concept of if else and multiple if statments",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Tell them how we would like the user to tell which operation he wants to do. That would result in writing this code:",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//Conditionals<br>var operation = prompt('Kaunse operation karna chahenge', 'a:addition/s:subtraction/d:division/m:multiplication')<br>var a = Number(prompt('Pehle number likho', '12'))<br>var b = Number(prompt('Dusra number likho', '34'))"
+                    },
+                    {
+                        "component": "text",
+                        "value": "if (operation == 'a') {<br>        console.log(a+b)<br>} else if (operation == 's') {<br>        console.log(a-b)<br>} else if (operation == 'd') {<br>        console.log(a/b)<br>} else if (operation == 'm') {<br>        console.log(a*b)<br>}"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Maybe take another example?",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7267",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "comparison-operators",
+                "slug": "js101_json__comparison-operators_json",
+                "sequence_num": 800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/comparison-operators.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain them the concept of comparison operators and then ask them to enter two different numbers using prompt. After this it returns maximum of those two numbers //Operators like less than, greater than",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "var a = Number(prompt('Pehle number likho', '12'))<br>var b = Number(prompt('Dusra number likho', '34'))"
+                    },
+                    {
+                        "component": "text",
+                        "value": "if (a &gt; b) {<br>        console.log('sabse badha number: ' + a)<br>} else {<br>        console.log('sabse badha number: ' + b)<br>}"
+                    }
+                ]
+            },
+            {
+                "id": "7258",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "boolean-operators",
+                "slug": "js101_json__boolean-operators_json",
+                "sequence_num": 900,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/boolean-operators.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain them the concept of and/or and then ask them to enter three different numbers using prompt. After this it returns maximum of those three numbers //Operators like less than, greater than and boolean operators //Operators like less than, greater than and boolean operators",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "var a = Number(prompt('Pehle number likho', '12'))<br>var b = Number(prompt('Dusra number likho', '34'))<br>var c = Number(prompt('Teesra number likho', '-10'))"
+                    },
+                    {
+                        "component": "text",
+                        "value": "if (a &gt;= b &amp;&amp; a &gt;= c) {<br>        console.log('sabse badha number: ' + a)<br>} else if(b &gt;= a &amp;&amp; b &gt;= c) {<br>        console.log('sabse badha number: ' + b)<br>} else if(c &gt;= a &amp;&amp; c &gt;= b) {<br>        console.log('sabse badha number: ' + c)<br>}"
+                    }
+                ]
+            },
+            {
+                "id": "7272",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "while-loops",
+                "slug": "js101_json__while-loops_json",
+                "sequence_num": 1000,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/while-loops.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Introduce the concept of loops.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "A while loop to take in user input 10 times before it stops.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "// while <span style=\"\">loop</span><br>while(<span style=\"\">true</span>) {<br>        var operation = prompt('Kaunse operation karna chahenge', 'a:addition/s:subtraction/d:division/m:multiplication')<br>        var a = Number(prompt('Pehle number likho', '12'))<br>        var b = Number(prompt('Dusra number likho', '34'))"
+                    },
+                    {
+                        "component": "text",
+                        "value": "if (operation == 'a') {<br>            console.log(a+b)<br>    } else if (operation == 's') {<br>            console.log(a-b)<br>    } else if (operation == 'd') {<br>            console.log(a/b)<br>    } else if (operation == 'm') {<br>            console.log(a*b)<br>    } else {<br>            break; // introduce concepts of break and continue<br>    }"
+                    },
+                    {
+                        "component": "text",
+                        "value": "}"
+                    }
+                ]
+            },
+            {
+                "id": "7259",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "project-2-intro",
+                "slug": "js101_json__project-2-intro_json",
+                "sequence_num": 1200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/project-2-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain and give a basic idea about the ToDo <span style=\"\">Application</span> which we will be building in this course."
+                    }
+                ]
+            },
+            {
+                "id": "7271",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "arrays-intro",
+                "slug": "js101_json__arrays-intro_json",
+                "sequence_num": 1300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/arrays-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain what is array and how to declare an array like a bag of items",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Explain the concept of indexing and accessing different elements in array",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Displaying length of array using list.length property",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//Concept of arrays and iteration over them<br>var taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];"
+                    },
+                    {
+                        "component": "text",
+                        "value": "//explaining concept of indexing<br>console.log(taskList[0]);<br>//------------------------"
+                    },
+                    {
+                        "component": "text",
+                        "value": "//Explaining length of arrays<br>console.log(taskList.length);"
+                    }
+                ]
+            },
+            {
+                "id": "7274",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "arrays-iteration",
+                "slug": "js101_json__arrays-iteration_json",
+                "sequence_num": 1400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/arrays-iteration.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain the concept of traversing and accessing elements in a list",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//Concept of arrays and iteration over them<br>var taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];"
+                    },
+                    {
+                        "component": "text",
+                        "value": "var listLength = taskList.length;<br>var index = 0;<br>while(index < listLength)<br>        console.log(taskList[i]);<br>        index = index + 1;<br>}"
+                    }
+                ]
+            },
+            {
+                "id": "7261",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "arrays-manupilation",
+                "slug": "js101_json__arrays-manupilation_json",
+                "sequence_num": 1500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/arrays-manupilation.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Explain arrays operation such as push, pop, splicevar taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];//pushtaskList.push('Be honest');var listLength = taskList.length;var index = 0;while(index &lt; listLength)      console.log(taskList[i]);      index = index + 1;}",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//pop<br>var task = taskList.pop();<br>console.log(task);"
+                    },
+                    {
+                        "component": "text",
+                        "value": "//delete say 3rd element<br>taskList.splice(0, 1)<br>listLength = taskList.length;<br>index = 0;<br>while(index < listLength)<br>        console.log(taskList[i]);<br>        index = index + 1;<br>}"
+                    }
+                ]
+            },
+            {
+                "id": "7262",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "objects-intro",
+                "slug": "js101_json__objects-intro_json",
+                "sequence_num": 1600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/objects-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "introducing key, value concept and how to define an object and access its properties",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "//Concept of objects<br>var task = {<br>        'id' : 1,<br>        'task': 'Complete the JS course',<br>        'status': 'Pending'<br>}<br>console.log(task)<br>console.log(task['id'])"
+                    },
+                    {
+                        "component": "text",
+                        "value": "//Create a list of objects<br>taskList = [{<br>                'id' : 1,<br>                'task': 'Complete the JS course',<br>                'status': 'Pending'<br>        },<br>        {<br>                'id' : 2,<br>                'task': 'Complete the CSS course',<br>                'status': 'Pending'<br>        },<br>        {<br>                'id' : 3,<br>                'task': 'Cook the food',<br>                'status': 'Complete'<br>        }]<br>var listLength = taskList.length;<br>var index = 0;<br>while(index < listLength)<br>        console.log(taskList[i]);<br>        index = index + 1;<br>}"
+                    }
+                ]
+            },
+            {
+                "id": "7263",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "functions-intro",
+                "slug": "js101_json__functions-intro_json",
+                "sequence_num": 1700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/functions-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Convert the print list to a function and perform different operations on list and print this list",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "function printList(listToPrint) {<br>        var listLength = listToPrint.length;<br>        var index = 0;<br>        while(index < listLength)<br>            console.log(listToPrint[i]);<br>            index = index + 1;<br>        }<br>}"
+                    },
+                    {
+                        "component": "text",
+                        "value": "var taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];<br>taskList.push('Be honest');<br>printList(taskList)"
+                    },
+                    {
+                        "component": "text",
+                        "value": "taskList.splice(0, 1)<br>printList(taskList)"
+                    }
+                ]
+            },
+            {
+                "id": "7264",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "scope-intro",
+                "slug": "js101_json__scope-intro_json",
+                "sequence_num": 1800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/scope-intro.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Defining variables inside/outside functions. How does it change?",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "var taskListGlobal = ['Teach students', 'Cook Food', 'Study', 'Give interview'];"
+                    },
+                    {
+                        "component": "text",
+                        "value": "function printList() {<br>        var taskListLocal = ['Drink milk', 'Drink water'];<br>        //taskListGlobal accessible<br>        for (var i = 0 ; i < taskListGlobal.length; i++) {<br>                console.log(taskListGlobal[i]);<br>        }        <br>}<br>printList()"
+                    },
+                    {
+                        "component": "text",
+                        "value": "//taskListLocal not accessible <br>//This will throw <span style=\"\">error</span>: Uncaught Reference<span style=\"\">Error</span>: taskListLocal is not defined<br>for (var i = 0 ; i < taskListLocal.length; i++) {<br>        console.log(taskListLocal[i]);<br>}"
+                    }
+                ]
+            },
+            {
+                "id": "7273",
+                "parent_exercise_id": null,
+                "course_id": "251",
+                "name": "whats-next",
+                "slug": "js101_json__whats-next_json",
+                "sequence_num": 2000,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js101_json/whats-next.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Give the student a sneak peak into what is in store for him next and what should be his next steps."
+                    }
+                ]
+            }
+        ]
+    }
+}

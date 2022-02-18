@@ -1,0 +1,1338 @@
+{
+    "course": {
+        "id": "226",
+        "name": "NavGurukul's Constitution - English",
+        "logo": "https",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "We will learn about the Constitution of NavGurukul.",
+        "type": "html",
+        "course_type": "json",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "7020",
+                "parent_exercise_id": null,
+                "course_id": "226",
+                "name": "navgurukul-constitution",
+                "slug": "constitution_json__navgurukul-constitution_json",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/navgurukul-constitution.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "NavGurukul Constitution"
+                    },
+                    {
+                        "component": "text",
+                        "value": "NavGurukul is to nurture the students for a career of their choice and equipping them with a strong practical understanding of how to take the change forward to more and more people. Students need to responsibly manage and govern the residential facility to ensure that"
+                    },
+                    {
+                        "component": "text",
+                        "value": "there is a space for each and every student to use this opportunity to hone their <b>leadership</b> skills and attitude and learn to take charge of the situations",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "students are able to <b>own up</b> and contribute to the various processes and realise their larger role in shaping their own experiences and learning",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "the model is <b>scalable</b> to plug and play more NavGurukuls leading to more and more students to benefit from this",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "There are many hiccups that come in the way of a smoothly running system. It needs people to take ownership and set things right. This constitution provides a framework to work in a structured manner - leading to growth of every member while efficiently tackling the problem that may arise on a day-to-day basis."
+                    },
+                    {
+                        "component": "text",
+                        "value": "You can use this opportunity to understand and appreciate your own role to create a <b>safe space</b> that prospers learning and love amongst all. <br>May this constitution and every effort that we make:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>\u0905\u0938\u0924\u094b \u092e\u093e \u0938\u093e\u0926 \u0917\u092e\u092f, \u0924\u092e\u0938\u094b \u092e\u093e \u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d \u0917\u092e\u092f, \u092e\u0943\u0924\u094d\u092f\u094b\u0930 \u092e\u093e \u0905\u092e\u0943\u0924\u092e\u094d \u0917\u092e\u092f</b>"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Lead us from ignorance to truth, Lead us from darkness to light, Lead us from death to deathlessness."
+                    }
+                ]
+            },
+            {
+                "id": "7001",
+                "parent_exercise_id": "7001",
+                "course_id": "226",
+                "name": "section-0",
+                "slug": "constitution_json__section-0/section-0_json",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-0/section-0.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Power to the People"
+                    },
+                    {
+                        "component": "text",
+                        "value": "NavGurukul\u2019s constitution adopts principles of the Swaraj and a rule by people, for the people. It is important that each and every member of the facility feels <b>empowered</b> by the constitution and the <b>elected members</b> act as <b>facilitators</b> rather than as power centers. To ensure that the power lies with all the members there are various safeguards like Right to Recall, but most importantly the right culture leads to the same. Hence, each member is encouraged to participate and take ownership."
+                    }
+                ]
+            },
+            {
+                "id": "7004",
+                "parent_exercise_id": "7001",
+                "course_id": "226",
+                "name": "right-to-dissent",
+                "slug": "constitution_json__section-0/right-to-dissent_json",
+                "sequence_num": 101,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-0/right-to-dissent.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Right to Dissent"
+                    },
+                    {
+                        "component": "text",
+                        "value": "A healthy community strives not only on favorable views, but equally importantly on the <b>contrarian views</b> as well. For the sake of efficiency, usually the contrarian views are handled with contempt while <b>dissent</b> and <b>whistleblowing</b> are seen as acts of distraction. NavGurukul's constitution believes that in the interest of fairness and long-term growth, dissent and whistleblowing are important and valuable parts of the system. Hence, constitution gives every member a \"right to dissent\" where the member can directly raise a concern which needs to be addressed by the Council in presence of the Board of the Governors. Members are encouraged to actively exercise their dissent and <b>expose <span style=\"\">loop</span>holes</b> in the systems."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Our constitution salutes all the Whistleblowers that have helped the World in becoming a better place."
+                    }
+                ]
+            },
+            {
+                "id": "7005",
+                "parent_exercise_id": "7001",
+                "course_id": "226",
+                "name": "right-to-audit",
+                "slug": "constitution_json__section-0/right-to-audit_json",
+                "sequence_num": 102,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-0/right-to-audit.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Right to Audit"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Elected members are facilitating the well-being for all the members, and hence members have all the right to delve into the <b>processes, accounts and records</b> being maintained to find more efficient solutions or expose discrepancies. It will be the prerogative of the Council to arrange for the right information to be made available to the member for this purpose. Such an audit can be done under the supervision of the Board of Governors if the member desire to do so."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Council is advised to <b>document</b> its decisions electronically - through documents or through channels on the communication <span style=\"\">application</span> such that they are available to all the members of the Center, and to others on the request. Members are <b>encouraged to give feedback</b> on these decisions if they believe anything can be done with a better approach or if they believe some wrong decision is being taken. They can also use their \u201cRight to Dissent\u201d or \u201cRight to Audit\u201d to escalate the matter."
+                    },
+                    {
+                        "component": "text",
+                        "value": "At the same time, there are duties that are important to be followed by each student. It should be the duty of all students at NavGurukul to:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Abide by the constitution and follow all process and rules set up by the constitution",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Uphold all the values that NavGurukul stands by, which includes - respect for each other, courage to stand up against something which is happening wrong, honesty in work and ideas, openness and transparency, and to move together on a path from ignorance to truth.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7002",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "section-1-council",
+                "slug": "constitution_json__section-1-council/section-1-council_json",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/section-1-council.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Council"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The council will be elected by the <b>members</b> of a NavGurukul campus and would be responsible to represent the campus, ensure <b>learning</b> of one and all while ensuring smooth <b>management</b> of the day-to-day operations. This council is comprised of 7 members to simplify work distribution among the different members of the council:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Food and Kitchen Coordinator",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Information Technology Coordinator",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Treasurer",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Outreach and communication Coordinator",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Training and Placement Coordinator",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Facility and Maintenance Coordinator",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Prosperity Officer",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "One of the eligible members from general body will be appointed as the <b>General Secretary</b>."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Every <b>three months</b>, elections will be held for appointment of members to the council."
+                    },
+                    {
+                        "component": "text",
+                        "value": "A <b>general body meeting (GBM)</b> will be held every month to <b>review</b> the performance of the Council. The minutes of the meeting (MOM) will be recorded and be posted in a public blog maintained by the Outreach and Communications Coordinator."
+                    },
+                    {
+                        "component": "text",
+                        "value": "The coordinators can act independently to resolve the issues and improve upon the existing solutions in consultation with the Board of Governors. A student cannot hold more than two places in the Council. The council members will record the decisions electronically to ensure transparency in the governance channel specific to the campus."
+                    }
+                ]
+            },
+            {
+                "id": "7008",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "gensec",
+                "slug": "constitution_json__section-1-council/gensec_json",
+                "sequence_num": 201,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/gensec.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "General Secretary"
+                    },
+                    {
+                        "component": "text",
+                        "value": "In addition to managing her own responsibilities, the role of the GenSec is to ensure smooth functioning of the Council."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Communicating with the Board of Governors regarding campus affairs",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Overseeing the functioning of all members of the council and resolving any conflicts (all such conflicts need to be documented and posted on the right communication channel)",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Upholding the constitution in the NavGurukul campus ",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Organising and hosting the monthly GBMs",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7009",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "food",
+                "slug": "constitution_json__section-1-council/food_json",
+                "sequence_num": 202,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/food.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Food and Kitchen Coordinator"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Assigning the kitchen and cleaning duties equally and impartially among the community members",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Deciding the time for the meal breaks",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Making sure that food is being served during the break time",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Creating the menu with the help of the members who have kitchen duty",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Assigning duties for planning and buying of groceries and other raw material for food",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Addressing and resolve any complaints and grievances raised by the members regarding food",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Any other kitchen and food related issue will be solved by the food and hygiene  committee",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Documenting all such decisions on the appropriate communication channel",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7006",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "information",
+                "slug": "constitution_json__section-1-council/information_json",
+                "sequence_num": 203,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/information.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Information and Technology Coordinator"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "To take care of NavGurukul laptops that are not assigned to anyone",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Devise and document a method to maintain the inventory of laptops and allotment of laptops to new students",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "To reallocate the laptops to the students in a randomised manner every 45 days with course appropriate constraints (e.g. Android students to -get first access to 8GB+, iOS students to get first access to macbooks)",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "To oversee and assess any laptop repairs",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "To resolve internet issues: assess the problems, collect data, find solutions and execute them",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Documenting all such decisions on the appropriate communication channel",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7007",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "treasurer",
+                "slug": "constitution_json__section-1-council/treasurer_json",
+                "sequence_num": 204,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/treasurer.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Treasurer"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Creating the budget on a monthly basis",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Monitoring all spending and ensure that it stays within the budget",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Ensuring that a record is maintained for all expenses and is reported to the Board of Governors",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7010",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "outreach",
+                "slug": "constitution_json__section-1-council/outreach_json",
+                "sequence_num": 205,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/outreach.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Outreach and Communications Coordinator"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Maintaining a public blog with records of minutes of meeting for the General Body Meeting in the Good, Bad and Ugly format. The blog will be cross posted to NavGurukul\u2019s main blog every month",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "To click pictures pertaining to different activities and store them in a centralised location accessible to all the members and the Board of Governors",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Acting as the central point of communication between Center, volunteers and community members",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "To maintain a center specific blog",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7011",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "training",
+                "slug": "constitution_json__section-1-council/training_json",
+                "sequence_num": 206,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/training.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Training and Placement Coordinator"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Providing assistance to students to apply for internships and jobs",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Corresponding with companies for recruitment and internships",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Organising interview readiness sessions for students such as resume writing and mock interviews",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Coordinating all activities related to training and placement such as but not limited to inviting companies for interviews, arranging interviews, ensure that the students are behaving responsibly with the job offers and the companies such that companies have a favorable experience with NavGurukul",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7013",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "maintenance",
+                "slug": "constitution_json__section-1-council/maintenance_json",
+                "sequence_num": 207,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/maintenance.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Facility Maintenance Coordinator"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Taking care of any repairs and maintenance works on campus",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Procuring all accommodation related stuff for campus needs for dormitories and classrooms",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Allotment of rooms to new students and reshuffling of rooms after every 45 days",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Paying the bills for utilities and planning to use them in optimum ways",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Minintaining hygiene and cleaning schedule for the premises",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Working on making the campus self-sustainable by starting initiatives like waste management, water recyling and such",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7012",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "happiness",
+                "slug": "constitution_json__section-1-council/happiness_json",
+                "sequence_num": 208,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/happiness.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Prosperity Officer"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Offering a space on campus where students can share their feelings and/or seek help regarding mental health",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Organising activities/events for students that would promote the well-being of their mental health",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Managing the counseling services for students",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7016",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "eligibility",
+                "slug": "constitution_json__section-1-council/eligibility_json",
+                "sequence_num": 209,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/eligibility.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Eligibility to contest for Council"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Students who have been in NavGurukul for <b>2 months or more</b> at the time of elections can contest for <b>Council</b> elections. This will not hold if there are less than 3 candidates contesting for a pro<span style=\"\">file</span>. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "Students who have been in NavGurukul for <b>6 months or more</b> at the time of elections and has been a council member once (current or former), can contest for the <b>GenSec</b> pro<span style=\"\">file</span>. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "In such case, the eligibility to contest elections will decrease by one month, till the point we don\u2019t have three contests eligible and contesting for the pro<span style=\"\">file</span>."
+                    }
+                ]
+            },
+            {
+                "id": "7014",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "gbm",
+                "slug": "constitution_json__section-1-council/gbm_json",
+                "sequence_num": 210,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/gbm.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "General Body Meeting"
+                    },
+                    {
+                        "component": "text",
+                        "value": "All the students in NavGurukul comprise of the general body. The general body will meet every month to review the performance of the Council. In this meeting, the different committees under the Council will get a chance to share with the general body their experience of the past one month in a Good Bad Ugly (GBU) format. This GBU report will also be shared with the Center."
+                    },
+                    {
+                        "component": "text",
+                        "value": "The following can serve as a guideline to prepare a report in the GBU format. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>The Good:</b> "
+                    },
+                    {
+                        "component": "text",
+                        "value": "What were the positive changes that were brought about on campus? ",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "What were the challenges that you overcame during this period as members of the Council? ",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>The Bad:</b>"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The things that went wrong but you have learnt from that and can be taken care of with some efforts.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>The Ugly:</b>"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The things that went terribly wrong. Includes high priority things that need attention and need to be quickly resolved.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "The reason for this exercise is to give space to the council members to review their own work and share it with all members of the community. This will help them acknowledge which areas need more effect and avoid mistakes from the past. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "The general body members can voice their appreciation or disappointment with the Council in this meeting. They are expected to give constructive feedback to the Council on how they can manage things better. "
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "The Process"
+                    }
+                ]
+            },
+            {
+                "id": "7015",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "recall",
+                "slug": "constitution_json__section-1-council/recall_json",
+                "sequence_num": 211,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/recall.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Right to Recall"
+                    },
+                    {
+                        "component": "text",
+                        "value": "During the three month tenure of the different members in the Council, if the student body finds the Council members to be unresponsive, evasive of their responsibilities, they can do the following:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Raise the matter in the GBM and state your reasons for discontent. The concerned council member is accountable to answer the questions. ",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "If the matter needs immediate attention, you can immediately raise your concern on the appropriate communication channel.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Petition for dismissal of the concerned member from the Council. You can raise the petition to the DISCO (described in later sections). The DISCO will conduct an anonymous vote. If 2/3rd number of all community members vote in favour of the petition, the concerned member will be dismissed from the Council.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "In case there is a petition for removal of DISCO, the petition can be raised to the GenSec. The GenSec will conduct an anonymous vote. If 2/3rd number of all community members vote in favour of the petition, the DISCO will be put under review and call for dismissal will be taken by the Governor.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "The Right to Recall safeguards the Council from faltering in their responsibilities."
+                    }
+                ]
+            },
+            {
+                "id": "7017",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "resignation-and-dismissal",
+                "slug": "constitution_json__section-1-council/resignation-and-dismissal_json",
+                "sequence_num": 212,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/resignation-and-dismissal.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Resignation"
+                    },
+                    {
+                        "component": "text",
+                        "value": "If a Council member wishes to resign from the Council, they have to tender a written resignation to the Governor stating the reason for resignation. They will be relieved from the Council responsilibities two weeks from the day when the Governor acknowledges and accepts their resignation."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Dismissal"
+                    },
+                    {
+                        "component": "text",
+                        "value": "In the event of a breach of conduct or major disciplinary action against a Council member, the Governor can ask the Council member to resign from the Council."
+                    }
+                ]
+            },
+            {
+                "id": "7018",
+                "parent_exercise_id": "7002",
+                "course_id": "226",
+                "name": "intrim-responsibilities",
+                "slug": "constitution_json__section-1-council/intrim-responsibilities_json",
+                "sequence_num": 213,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-1-council/intrim-responsibilities.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Interim Responsibilities"
+                    },
+                    {
+                        "component": "text",
+                        "value": "In the event that a council member has to leave campus for few days such that they are not able to fulfil their responsibilities, it is their duty to handover the council responsibility to someone who will take care of it in their absence."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Absence for &lt;= 14 days: Consult with GenSec and figure out if Council member can play their role remotely. If not, handover responsibility to any existing Council member. If no Council member can take it up owing to other responsibilities, then results of election can be revisited and the person who got second highest votes for the profile, can take up the role temporarily.",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Absence for &gt; 14 days: Re-election for the profile",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Any Council member who is absent from council without handing over responsibility will be asked to resign from the Council. They will further not be eligible to participate in the following elections."
+                    }
+                ]
+            },
+            {
+                "id": "7003",
+                "parent_exercise_id": "7003",
+                "course_id": "226",
+                "name": "section-2-discipline",
+                "slug": "constitution_json__section-2-discipline/section-2-discipline_json",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-2-discipline/section-2-discipline.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Disciplinary Committee"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Responsibilities:<br>The <b>dis</b>ciplinary <b>co</b>mmittee (DISCO) is responsible for ensuring that there is discipline on campus."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Consulting with the council and come up with a time schedule for the day",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "This includes class times, meal times, morning and evening circle and work time",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Ensure that all rules &amp; regulations are laid out clearly through the use of posters",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Ensure that each student has signed a copy of rules and regulations to be followed",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Addressing any violation or rule or any misconduct by any student and take appropriate action",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Maintaining a public record of all cases where disciplinary action was taken",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Conducting elections on campus",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Every 45 days along with the laptops reallocation, beds and rooms will be reallocated randomly amongst the students",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7019",
+                "parent_exercise_id": "7003",
+                "course_id": "226",
+                "name": "appointment",
+                "slug": "constitution_json__section-2-discipline/appointment_json",
+                "sequence_num": 301,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-2-discipline/appointment.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Appointment of DISCO"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The BOG will call for nominations for appointment to the DISCO. The students can self-nominate themselves or nominate someone else. The appointment will be made on the basis of an interview with one or more members from the Board of Governors. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "Nominations for DISCO will be collected through this <a href=\"https://goo.gl/forms/NAAbfURpuHd1oe923\">form</a>."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Punishments/ Corrective Measures"
+                    },
+                    {
+                        "component": "text",
+                        "value": "In case of an act of violation of rules or misbehaviour by a student, the DISCO is eligible to take disciplinary action by in consultation with the Board of Governors."
+                    }
+                ]
+            },
+            {
+                "id": "7021",
+                "parent_exercise_id": null,
+                "course_id": "226",
+                "name": "section-3-complaints",
+                "slug": "constitution_json__section-3-complaints_json",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-3-complaints.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Complaints"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The student body is free to raise any complaint or bring to notice any issue that needs to be addressed through an open forum. It is the duty of the respective council members to address any such issue raised within three days."
+                    },
+                    {
+                        "component": "text",
+                        "value": "In order to ensure quick resolution of campus affairs, the DISCO will take stock of all unresolved complaints on a weekly basis."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Any complaint against one or more members of the DISCO will be addressed by the Board of Governors. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "If a disciplinary action is taken against a member of the Council, the member will be up for review by the Board of Governors."
+                    }
+                ]
+            },
+            {
+                "id": "7024",
+                "parent_exercise_id": null,
+                "course_id": "226",
+                "name": "section-4-elections",
+                "slug": "constitution_json__section-4-elections_json",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-4-elections.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Elections"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Every three months, the DISCO will conduct elections to choose members of the Council."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Nominations"
+                    },
+                    {
+                        "component": "text",
+                        "value": "DISCO will call for nominations 7 days prior to the date of elections through a message visible to all, and a reminder 4 days prior to the date of elections. Candidates who are interested to contest elections for a particular pro<span style=\"\">file</span> in the Council can nominate themselves for the respective pro<span style=\"\">file</span>. A student can nominate himself/herself for two pro<span style=\"\">files</span> at most."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Nominations will be open only after announcement by DISCO. This is the <a href=\"https://goo.gl/forms/5MgDqDviAdSvI1s12\">form</a> for collecting nominations."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Voting"
+                    },
+                    {
+                        "component": "text",
+                        "value": "In the election, each student will vote for one candidate for each of the pro<span style=\"\">files</span>. The counting of the votes will be done by members of DISCO. The voting will be anonymous."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Appointment to the council:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The candidate that gets majority of votes is elected for the respective pro<span style=\"\">file</span>."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Appointment of GenSec:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The GenSec will be chosen from amongst the members of the Council. After the Council has been elected, DISCO will call for nominations from amongst the elected members for the pro<span style=\"\">file</span> of GenSec. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "The DISCO will conduct another round of elections to vote for the GenSec. All general body members will be eligible to vote once for their choice of GenSec."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Two candidates who receive the maximum number of votes will be interviewed by the Board of Governors and one of them will be appointed as the GenSec."
+                    },
+                    {
+                        "component": "text",
+                        "value": "The one who is appointed as the GenSec will drop the Council pro<span style=\"\">file</span> and whosoever has gotten the second highest votes for that pro<span style=\"\">file</span>, will be selected for the respective pro<span style=\"\">file</span>."
+                    }
+                ]
+            },
+            {
+                "id": "7022",
+                "parent_exercise_id": null,
+                "course_id": "226",
+                "name": "ethics",
+                "slug": "constitution_json__ethics_json",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/ethics.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Ethics of the Election"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Elections are a very core process in NavGurukul. It is extremely important that the entire process of elections and appointment of Council is fair and gives equal opportunities to all who are eligible to participate. The DISCO will ensure that the Council elections on campus are fair. This means that all nominated students get an opportunity to present their case to the community as to why they should be elected to the respective pro<span style=\"\">file</span>."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Also, it should be communicated to the community before every election that they have to vote for the person who they think is most suited for the pro<span style=\"\">file</span>. If after the election, the DISCO and Governor feel that the elections were not fair in any way, they can disqualify the election. This would be followed by a re-election."
+                    }
+                ]
+            },
+            {
+                "id": "7023",
+                "parent_exercise_id": null,
+                "course_id": "226",
+                "name": "section-5-rules",
+                "slug": "constitution_json__section-5-rules_json",
+                "sequence_num": 700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-5-rules.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Section V - Rules &amp; Regulations"
+                    },
+                    {
+                        "component": "text",
+                        "value": "NavGurukul campus is a drug and alcohol free campus. While we don\u2019t intend to do moral policing, we believe that drinking while enrolled in the course distract students from learning and create uncomfortable situations for others. Therefore, we don\u2019t approve of students consuming alcohol on or off-campus for the duration of the course.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "All students will abide by the schedule that has been created by the Disciplinary committee.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "header",
+                        "variant": 4,
+                        "value": "No student will indulge in any kind of activity that will bring bad repute to NavGurukul. Prohibited activities include but are not limited to:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Requiring the use of alcohol in any process or activity",
+                        "decoration": {
+                            "type": "number",
+                            "value": 1
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Throwing or propelling substances or objects at individuals or groups",
+                        "decoration": {
+                            "type": "number",
+                            "value": 2
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Verbal abuse or threatening physical harm",
+                        "decoration": {
+                            "type": "number",
+                            "value": 3
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Forcing a person to eat or drink something against his or her will",
+                        "decoration": {
+                            "type": "number",
+                            "value": 4
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Requiring a person to do something potentially harmful, or against their will, to themselves or other individuals.",
+                        "decoration": {
+                            "type": "number",
+                            "value": 5
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Any form of stalking, molestation or sexual abuse",
+                        "decoration": {
+                            "type": "number",
+                            "value": 6
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "All community members must report any incident of any kind of misconduct to disciplinary committee",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Off-campus Activities: At NavGurukul, an individual\u2019s learning heavily relies on peer learning and this is only possible when there is consistent availability of all members of the learning group on the campus. To achieve this, it is important that members of a learning group are available on campus during study hours. Therefore, we encourage the disciplinary committee to limit off-campus leisure activities to specific times of the day. This is also important to ensure safety and security of all community members across the campuses.",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7025",
+                "parent_exercise_id": null,
+                "course_id": "226",
+                "name": "section-6-center",
+                "slug": "constitution_json__section-6-center_json",
+                "sequence_num": 800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/constitution_json/section-6-center.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 1,
+                        "value": "Center and Board of Governors"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The body above the council will be the Center and will be comprised of NavGurukul team members and alumni. The Center will appoint Governor(s) and Deputy Governor for each campus to deal with the issues."
+                    },
+                    {
+                        "component": "text",
+                        "value": "An alumnus of NavGurukul will be appointed as the Deputy Governor."
+                    },
+                    {
+                        "component": "text",
+                        "value": "The third member of Board of Governors will be an Independent Governor i.e. someone who is not very directly involved in NavGurukul."
+                    }
+                ]
+            }
+        ]
+    }
+}

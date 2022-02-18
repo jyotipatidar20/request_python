@@ -1,0 +1,77 @@
+{
+    "course": {
+        "id": "263",
+        "name": "Non-Technical Readings - 201",
+        "logo": "https",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Iss Course ko aap use kar kar English mei important Concepts padh kar samajh sakte hai",
+        "type": "html",
+        "course_type": "json",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "7374",
+                "parent_exercise_id": null,
+                "course_id": "263",
+                "name": "how-to-use",
+                "slug": "non-technical-reading-201_json__how-to-use_json",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/non-technical-reading-201_json/how-to-use.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "How to Use"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Is course me kuch interesting topics hain jinhe discuss karke aap English conversation and Non-Tech Conversation ki practice kar sakte hain. Ye topics se advance words and isme use ki gai vocabulary kafi common hai agar aapko english ach mei kuch karna hai.e se sikhni h to reading krna v bauth hi jaruari h"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Ye aapki English ki fluency improve karne me bhi helpful rahega. Agar inme se koi topic ke baare mein aapke paas enough information nahi hai, toh pehle hi thoda extra time lekar thoda padh lein aur fir conversation karein."
+                    },
+                    {
+                        "component": "header",
+                        "variant": 3,
+                        "value": "Some important tips to help you learn better:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Maintain a diary with all the new words that you learn",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Revise your vocabulary diary everyday",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Share your vocabulary lists with your friends and revise together",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "Koi bhi topic padhne ke baad aap apni understanding ko ek comment ke through English mei uss topic ke neeche \u201ccomment box\u201d mei daalein",
+                        "decoration": {
+                            "type": "bullet"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

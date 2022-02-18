@@ -1,0 +1,138 @@
+{
+    "course": {
+        "id": "273",
+        "name": "Seva",
+        "logo": "https",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "NavGurukul ke 'Seva' model ke baare me jaanenge.",
+        "type": "html",
+        "course_type": "json",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "7560",
+                "parent_exercise_id": null,
+                "course_id": "273",
+                "name": "introduction",
+                "slug": "seva_json__introduction_json",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/seva_json/introduction.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Introduction"
+                    },
+                    {
+                        "component": "text",
+                        "value": "'Seva' ek sanskrit word hai jiska matlab hai bina kisi personal faayde, inaam ya bhugtan ke koi kaam karna. Ancient India me maana jaata hai ki seva spiritual growth me helpful rehta hai aur sath hi ek community ke improvement mein contribute karta hai. "
+                    },
+                    {
+                        "component": "text",
+                        "value": "NavGurukul ke saare community members har roz apne din ka kuch samay <b>'community service'</b> ya <b>seva</b> mein bitate hain. Is seva ke zariye hum ye ensure karte hain ki hum apni aur apne aas paas ki community ko kuch return karte hain aur apne center ko chalane ki responsibility khud lete hain. Center ko chalane mein hum jo bhi samay lagate hain vo sab bhi isi seva ka ek hissa hai. Saath hi, Council members community ki management aur betterment ke liye jo time spend karte hain vo bhi seva ka hissa hain."
+                    }
+                ]
+            },
+            {
+                "id": "7559",
+                "parent_exercise_id": null,
+                "course_id": "273",
+                "name": "seva-allotment",
+                "slug": "seva_json__seva-allotment_json",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/seva_json/seva-allotment.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Process of Seva Allotment"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Ye decide karne ke liye ki NavGurukul mein kaun se community members kis seva mein participate karenge, ek <b>interest</b> aur <b>availability</b> based process follow kiya jaega. Seva ki allotment har mahine change ki jaegi. Isse students ko alag alag type ki seva mein participate karne ka mauka milega jisse apka exposure badhega. Ek organisation ko manage karne ke alag alag aspects ki samajh aur experience aapko milegi. Saath hi, ek mahine ka achha time milega ki aap apni seva ko deeply experience kar sako."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Har mahine, Council members us mahine ke seva projects ki ek list banaenge. Council members ye bhi figure out karenge ki kaunse project mein kitne logon ke contribution ki zarurat hai. Logon ka number ye dhyan mein rakhkar decide kiya jaega ki har student member ek din mein seva mein <b>1.5 se 2 hours</b> spend karenge."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Is list ko GenSec saare students ke sath share karenge. Students ko mauka milega apni <b>top 3 preferences</b> batane ka jin projects mein vo participate karna chahte hain. Ek algorithm ke through ye decide hoga ki kaunsa student kis project me paricipate karega."
+                    },
+                    {
+                        "component": "text",
+                        "value": "Student ko notify kiya jaega ki unhe kabse apne new project me contribute karna start karna hai."
+                    }
+                ]
+            },
+            {
+                "id": "7561",
+                "parent_exercise_id": null,
+                "course_id": "273",
+                "name": "feedback",
+                "slug": "seva_json__feedback_json",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/seva_json/feedback.json",
+                "solution": null,
+                "content": [
+                    {
+                        "component": "text",
+                        "value": "Is process ko kaam karne ke liye time time par ye ensure karna important hai ki saare projects me kaam smoothly chal raha hai. Saare students apni puri efficiency ke sath seva me participate kar pa rahe hain ya nahi. Iske liye ek process setup kiya gaya hai. Ek weekly review process hoga jisme saare students ka evaluation hoga. "
+                    },
+                    {
+                        "component": "header",
+                        "variant": 2,
+                        "value": "Flow of Feedback"
+                    },
+                    {
+                        "component": "text",
+                        "value": "Feedback process will be carried out in the following manner:"
+                    },
+                    {
+                        "component": "text",
+                        "value": "The Governor will have a feedback session with the GenSec and DISCO.",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "The GenSec will have a feedback session with the Council members, which will be shadowed by the Governor.",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "The Council members will have a feedback session with their respective teams.",
+                        "decoration": {
+                            "type": "number",
+                            "value": null
+                        }
+                    },
+                    {
+                        "component": "text",
+                        "value": "The feedback will be completely transparent in manner."
+                    },
+                    {
+                        "component": "text",
+                        "value": "<b>Here is the form for SEVA feedback:</b> <a href=\"https://goo.gl/forms/pR3mbFX704vHVVjB3\">Feedback - Seva</a>"
+                    }
+                ]
+            }
+        ]
+    }
+}
