@@ -26,10 +26,10 @@ print(data[user_input-1]["name"])
 print(user_input)
 b=requests.get("https://api.merakilearn.org/courses/"+data[user_input-1]['id']+"/exercises")
 d = b.json()
-a = data[user_input-1]['name']+"_"+".json"
-with open(a,"w") as f:
+# a = data[user_input-1]['name']+"_"+".json"
+with open("Parent_data","w") as f:
     json.dump(d,f,indent=4)
-s=open(a,"r")
+s=open("Parent_data","r")
 read=s.read()
 data=json.loads(read)
 i=0
